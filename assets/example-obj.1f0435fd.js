@@ -1,0 +1,1 @@
+import{_ as e}from"./vue-3d-model.esm.ca371377.js";import{_ as o,o as a,i as r,u as _}from"./app.0668dafb.js";const s={__name:"example-obj",setup(t){return(c,m)=>(a(),r(_(e),{src:"/static/models/obj/tree.obj"}))}};var f=o(s,[["__file","example-obj.vue"]]);export{f as E};
